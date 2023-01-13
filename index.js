@@ -5,6 +5,7 @@
 let count = 0 ;
 let countel = document.getElementById("count-el")
 let saveEL = document.getElementById("save-el")
+let totalEL = document.getElementById("total-el")
 
 
 function  increment() {

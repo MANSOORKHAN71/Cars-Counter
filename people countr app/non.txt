@@ -1,7 +1,0 @@
-var original = Runner.prototype.gameOver
-Enter
-Next, enter this command
-Runner.prototype.gameOver = function (){}
-
-For speed Hack:
-Runner.instance_.setSpeed(6000)
